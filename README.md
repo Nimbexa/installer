@@ -61,7 +61,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ItzBenoitXD/
 
 ## Authors
 
-* **ItzBenoitXD** - *developer???* - [ItzBenoitXD](https://github.com/Realtrickz) - *Made the Nimbexa and Nimbexa Installer*
+* **Real trickz** - *Owner* - [Real trickz](https://github.com/Realtrickz) - *Made the Nimbexa and Nimbexa Installer*
 
 ## Acknowledgements
 
